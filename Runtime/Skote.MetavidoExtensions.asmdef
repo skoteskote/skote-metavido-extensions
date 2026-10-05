@@ -1,0 +1,18 @@
+{
+    "name": "Skote.MetavidoExtensions",
+    "rootNamespace": "Skote.MetavidoExtensions",
+    "references": [
+        "Metavido.Common",
+        "Metavido.Decoder",
+        "Unity.Timeline"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
