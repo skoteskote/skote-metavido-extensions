@@ -1,0 +1,20 @@
+{
+    "name": "Skote.MetavidoExtensions.Editor",
+    "rootNamespace": "Skote.MetavidoExtensions.Editor",
+    "references": [
+        "Skote.MetavidoExtensions",
+        "Metavido.Decoder",
+        "Unity.VisualEffectGraph.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

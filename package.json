@@ -1,8 +1,8 @@
 {
     "name": "com.skote.metavido-extensions",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "displayName": "Skote Metavido Extensions",
-    "description": "Extensions for Keijiro's Metavido: clip playlists and Timeline integration (MetavidoManager), camera offset handling, and cropped Metavido VFX Graph subgraphs.",
+    "description": "Extensions for Keijiro's Metavido: clip playlists and Timeline integration (MetavidoManager), camera offset handling, cropped Metavido VFX Graph subgraphs, and multi-device playback aligned in a shared marker space.",
     "unity": "6000.1",
     "author": {
         "name": "Jakob Skote",
@@ -12,7 +12,8 @@
         "metavido",
         "volumetric",
         "vfx",
-        "timeline"
+        "timeline",
+        "alignment"
     ],
     "dependencies": {
         "jp.keijiro.metavido": "5.1.1",
